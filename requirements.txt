@@ -1,0 +1,11 @@
+nnsight
+torch
+numpy
+matplotlib
+pandas
+scipy
+scikit-learn
+transformer_lens
+transformer
+datasets
+tqdm
