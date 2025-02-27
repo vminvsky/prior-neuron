@@ -6,6 +6,7 @@ pandas
 scipy
 scikit-learn
 transformer_lens
-transformer
+transformers
 datasets
 tqdm
+jupyter
